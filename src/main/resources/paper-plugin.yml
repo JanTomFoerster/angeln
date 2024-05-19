@@ -1,0 +1,4 @@
+name: Fishing
+version: '${version}'
+main: me.gaminglounge.fishing.Fishing
+api-version: '1.20'
